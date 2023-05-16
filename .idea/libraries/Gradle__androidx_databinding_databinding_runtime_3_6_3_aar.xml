@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: androidx.databinding:databinding-runtime:3.6.3@aar">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../../MyCrypto/caches/transforms-2/files-2.1/93704f95c24ba4198e0979f8d7d5cb9d/databinding-runtime-3.6.3/res" />
+      <root url="jar://$PROJECT_DIR$/../../MyCrypto/caches/transforms-2/files-2.1/93704f95c24ba4198e0979f8d7d5cb9d/databinding-runtime-3.6.3/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../MyCrypto/caches/transforms-2/files-2.1/93704f95c24ba4198e0979f8d7d5cb9d/databinding-runtime-3.6.3/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../../MyCrypto/caches/modules-2/files-2.1/androidx.databinding/databinding-runtime/3.6.3/6cc7bb2aeb11198e2506d7503011855a022943c7/databinding-runtime-3.6.3-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

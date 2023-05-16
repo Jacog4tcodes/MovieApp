@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "196019949807",
+    "project_id": "movie-app-ce0e5",
+    "storage_bucket": "movie-app-ce0e5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:196019949807:android:616a82139def5ac6f60b1a",
+        "android_client_info": {
+          "package_name": "barissaglam.client.movieapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "196019949807-th6ka2frb26ph0k40u7mn1pc4qdc5gk7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHjtRp0Dw578VHhNc304bmUXQG-0jg9Gg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "196019949807-th6ka2frb26ph0k40u7mn1pc4qdc5gk7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

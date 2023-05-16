@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Gradle: com.facebook.stetho:stetho-okhttp3:1.5.1@aar">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../../MyCrypto/caches/transforms-2/files-2.1/874970db29079d7c8714b34d5d49f8d2/jetified-stetho-okhttp3-1.5.1/AndroidManifest.xml" />
+      <root url="jar://$PROJECT_DIR$/../../MyCrypto/caches/transforms-2/files-2.1/874970db29079d7c8714b34d5d49f8d2/jetified-stetho-okhttp3-1.5.1/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/../../MyCrypto/caches/modules-2/files-2.1/com.facebook.stetho/stetho-okhttp3/1.5.1/b52d0a8917817aba480ec71565b639a8d5c00e6e/stetho-okhttp3-1.5.1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../../MyCrypto/caches/modules-2/files-2.1/com.facebook.stetho/stetho-okhttp3/1.5.1/9532ccdbe9c34bdbce27515b77e6d2cbb54b07c9/stetho-okhttp3-1.5.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

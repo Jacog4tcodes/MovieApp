@@ -1,0 +1,351 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id=":app:androidTest" external.linked.project.path="$MODULE_DIR$/../../../app" external.root.project.path="$MODULE_DIR$/../../.." external.system.id="GRADLE" external.system.module.type="sourceSet" type="JAVA_MODULE" version="4">
+  <component name="FacetManager">
+    <facet type="kotlin-language" name="Kotlin">
+      <configuration version="5" platform="JVM 1.8" allPlatforms="JVM [1.8]" useProjectSettings="false">
+        <compilerSettings>
+          <option name="additionalArguments" value="-Xallow-no-source-files" />
+        </compilerSettings>
+        <compilerArguments>
+          <flagArguments>
+            <flagArg name="noReflect" arg="true" />
+            <flagArg name="noStdlib" arg="true" />
+          </flagArguments>
+          <stringArguments>
+            <stringArg name="classpath">
+              <args>
+                <arg>$MODULE_DIR$/../../../../../MyCrypto/caches/transforms-2/files-2.1/a90723e44213aabcbcff287a3008462c/jetified-junit-1.1.1-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../../MyCrypto/caches/transforms-2/files-2.1/a14434e0f261ef3a989cfeac88e7f3d9/databinding-adapters-3.6.3-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../../MyCrypto/caches/transforms-2/files-2.1/973a1829717cac5739dbfd1eb498aabb/databinding-runtime-3.6.3-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../../MyCrypto/caches/modules-2/files-2.1/androidx.databinding/databinding-common/3.6.3/555fa9bb14c6214e7ebbce7a0a2016d3c9a365f1/databinding-common-3.6.3.jar</arg>
+                <arg>$MODULE_DIR$/../../../../../MyCrypto/caches/transforms-2/files-2.1/31e934e64242ed10452a0711f72f4a52/jetified-junit-4.12.jar</arg>
+                <arg>$MODULE_DIR$/../../../../../MyCrypto/caches/transforms-2/files-2.1/57b1a4913686ab8e0d60089465588e3b/jetified-hamcrest-core-1.3.jar</arg>
+                <arg>$MODULE_DIR$/../../../../../MyCrypto/caches/transforms-2/files-2.1/9a03d636082ba4e218183fbb2caf096c/jetified-core-1.2.0-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../../MyCrypto/caches/transforms-2/files-2.1/f9ace02623465d8b5f9d2397bc03ca52/jetified-dagger-android-support-2.26-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../../MyCrypto/caches/transforms-2/files-2.1/d33c8788655ac9da136474b7f35cc7d1/jetified-dagger-android-2.26-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../../MyCrypto/caches/transforms-2/files-2.1/9e312129424f30d157b9a30575566d55/jetified-rxbinding-core-3.1.0-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../../MyCrypto/caches/transforms-2/files-2.1/59c6d5e202f08e1d33914537f309909c/jetified-rxbinding-appcompat-3.1.0-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../../MyCrypto/caches/transforms-2/files-2.1/24cb7e953ae132b60d06e05db1657862/jetified-rxbinding-3.1.0-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../../MyCrypto/caches/transforms-2/files-2.1/c40f4556a45e36a1139be156a3634aae/jetified-stetho-okhttp3-1.5.1-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../../MyCrypto/caches/transforms-2/files-2.1/9f65bbeccc5fb44fc64fe3bcbe1468b3/jetified-stetho-1.5.1-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../../MyCrypto/caches/transforms-2/files-2.1/a285f29c47939f97cabd2ccb14e089ff/jetified-library-1.1.0-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../../MyCrypto/caches/transforms-2/files-2.1/57683582bf92e7b430af6ef6ea1b3f7c/navigation-ui-ktx-2.2.2-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../../MyCrypto/caches/transforms-2/files-2.1/36416cf8132934f713983b429475ff13/navigation-ui-2.2.2-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../../MyCrypto/caches/transforms-2/files-2.1/d606b1290e238ff5636b8dd1b6f9e1b1/material-1.1.0-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../../MyCrypto/caches/transforms-2/files-2.1/f5bb7d27c18286523f7b79ffed2f495f/cardview-1.0.0-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../../MyCrypto/caches/transforms-2/files-2.1/65649f3ad2d5edba1c47e7e481567bfa/paging-runtime-2.1.2-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../../MyCrypto/caches/transforms-2/files-2.1/18b720b86223a5c4290205d30ec54679/jetified-viewpager2-1.0.0-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../../MyCrypto/caches/transforms-2/files-2.1/36d4732c1df9e2f260e3f3f243b5e05d/recyclerview-1.1.0-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../../MyCrypto/caches/transforms-2/files-2.1/addfeb2c2741188901ebe691d05f3f0b/jetified-core-3.1.1-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../../MyCrypto/caches/transforms-2/files-2.1/3d87449fd3577c1916831521b04420ae/jetified-lottie-3.1.0-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../../MyCrypto/caches/transforms-2/files-2.1/72b9db47cd7997e0c618f1372e08e452/appcompat-1.1.0-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../../MyCrypto/caches/transforms-2/files-2.1/e444ae6794e9202ee2bd6b1f77165168/lifecycle-extensions-2.2.0-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../../MyCrypto/caches/transforms-2/files-2.1/8a1e323201eba9987837704cba84c6d5/legacy-support-v4-1.0.0-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../../MyCrypto/caches/transforms-2/files-2.1/ec00a835f796dad27f78b7a6d4fc9b7f/jetified-glide-4.11.0-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../../MyCrypto/caches/transforms-2/files-2.1/1899c8cce1ca0f438617c56b36dd8fca/navigation-fragment-ktx-2.2.2-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../../MyCrypto/caches/transforms-2/files-2.1/15d229e995b48df88657d2db9bbc5f75/navigation-fragment-2.2.2-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../../MyCrypto/caches/transforms-2/files-2.1/2e5668fc4132fb2b3d4aa27dcc5568d2/jetified-firebase-auth-ktx-21.0.3-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../../MyCrypto/caches/transforms-2/files-2.1/528543fb5d5578cec3090f8b1f6f25af/jetified-firebase-auth-21.0.3-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../../MyCrypto/caches/transforms-2/files-2.1/2431c823850703776986d1efbef02fc4/jetified-fragment-ktx-1.2.4-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../../MyCrypto/caches/transforms-2/files-2.1/60549dcc54f6d2f362b99c9d19b04b98/jetified-firebase-common-ktx-20.0.0-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../../MyCrypto/caches/transforms-2/files-2.1/1dd550975696d61041b3ac8b77160fb6/jetified-firebase-auth-interop-20.0.0-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../../MyCrypto/caches/transforms-2/files-2.1/e8f2f4457308e12a9781c53404627656/jetified-firebase-common-20.1.0-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../../MyCrypto/caches/transforms-2/files-2.1/4e3c31b12f61e76cab49478607c5d5db/jetified-play-services-auth-api-phone-17.4.0-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../../MyCrypto/caches/transforms-2/files-2.1/0658f4558f288b656bd3bdf07d9237f8/jetified-play-services-safetynet-17.0.0-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../../MyCrypto/caches/transforms-2/files-2.1/86611993a29deaf8947cb2c04ef54df7/jetified-play-services-base-17.1.0-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../../MyCrypto/caches/transforms-2/files-2.1/4e09732308b316ea8cff73c371621275/jetified-play-services-tasks-18.0.1-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../../MyCrypto/caches/transforms-2/files-2.1/160144b1daf90bfbde391287cf15f985/jetified-play-services-basement-18.0.0-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../../MyCrypto/caches/transforms-2/files-2.1/85fd362248194df23f86798c91c6b75d/fragment-1.2.4-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../../MyCrypto/caches/transforms-2/files-2.1/e0e5dc5ac251345fcc1f29c1fc176e1b/navigation-runtime-ktx-2.2.2-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../../MyCrypto/caches/transforms-2/files-2.1/72f8d085d61453c02782288f57662bb4/navigation-runtime-2.2.2-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../../MyCrypto/caches/transforms-2/files-2.1/d1d6672eb04024fc3ec324481ce7576a/jetified-activity-ktx-1.1.0-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../../MyCrypto/caches/transforms-2/files-2.1/e15979173dff7021ec3d82fbdd4cbefa/jetified-lifecycle-viewmodel-ktx-2.2.0-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../../MyCrypto/caches/transforms-2/files-2.1/c5db0b4afc8f024972b0a9530e5dc4ee/browser-1.0.0-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../../MyCrypto/caches/transforms-2/files-2.1/16f2a36512893d1844d55c6bd5066b05/legacy-support-core-ui-1.0.0-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../../MyCrypto/caches/transforms-2/files-2.1/1b1dded8ba3fe412e2f8d075844d0f19/legacy-support-core-utils-1.0.0-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../../MyCrypto/caches/transforms-2/files-2.1/034163f0439ba4bd78bd0e24b8ff48cf/loader-1.0.0-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../../MyCrypto/caches/transforms-2/files-2.1/936732a46f9b7f299423bfa0a3dbb614/jetified-activity-1.1.0-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../../MyCrypto/caches/transforms-2/files-2.1/89cffe40dae02c81bc6719e53b037946/jetified-lifecycle-viewmodel-savedstate-2.2.0-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../../MyCrypto/caches/transforms-2/files-2.1/bd34e2e81b748cb5bec0d365ddb48617/lifecycle-viewmodel-2.2.0-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../../MyCrypto/caches/modules-2/files-2.1/androidx.lifecycle/lifecycle-common-java8/2.2.0/cd3478503da69b1a7e0319bd2d1389943db9b364/lifecycle-common-java8-2.2.0.jar</arg>
+                <arg>$MODULE_DIR$/../../../../../MyCrypto/caches/transforms-2/files-2.1/dd9e9502abc7967727eada39eef0e97f/lifecycle-reactivestreams-2.2.0-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../../MyCrypto/caches/transforms-2/files-2.1/1a6bc0deb2a3d5573d3fd1ae4c3e8897/jetified-core-ktx-1.2.0-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../../MyCrypto/caches/transforms-2/files-2.1/31270c512ecaef388018135de7ad4c5a/monitor-1.2.0-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../../MyCrypto/caches/transforms-2/files-2.1/2c7961ffaebcea1563fb8bb67026a4d7/jetified-viewbinding-3.6.3-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../../MyCrypto/caches/transforms-2/files-2.1/31c3ff6234062fa74ff7c0c55c612704/coordinatorlayout-1.1.0-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../../MyCrypto/caches/transforms-2/files-2.1/7033e0f31a9a48fcc26de07fba1b0165/drawerlayout-1.0.0-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../../MyCrypto/caches/transforms-2/files-2.1/f437580b1b86f29ad172e0334507b9fd/viewpager-1.0.0-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../../MyCrypto/caches/transforms-2/files-2.1/778e4455d39b24a224286c8dc17a7433/slidingpanelayout-1.0.0-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../../MyCrypto/caches/transforms-2/files-2.1/800c56bfe9b4edc3e1c4f108d6327805/customview-1.0.0-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../../MyCrypto/caches/transforms-2/files-2.1/9e559ab9b3fed8473ec8b46ca20c5c85/transition-1.2.0-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../../MyCrypto/caches/transforms-2/files-2.1/8a3a38d8080b0e1067c1c49a7c502fed/jetified-appcompat-resources-1.1.0-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../../MyCrypto/caches/transforms-2/files-2.1/8b11f4eaceff3a68cab1468b87d1d490/vectordrawable-animated-1.1.0-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../../MyCrypto/caches/transforms-2/files-2.1/66cc727a9681066ec6d3562f594f49cf/vectordrawable-1.1.0-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../../MyCrypto/caches/transforms-2/files-2.1/fc9ca111de3bd0b06bc87d0138f4c7fb/media-1.0.0-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../../MyCrypto/caches/transforms-2/files-2.1/1d00fd00c7e8c67a38e06e5b3e94cd28/swiperefreshlayout-1.0.0-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../../MyCrypto/caches/transforms-2/files-2.1/a4343b6dea9aac77d5514edd52e5857e/asynclayoutinflater-1.0.0-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../../MyCrypto/caches/transforms-2/files-2.1/8c2f62278207623b360cbdc2b8d0a9f5/navigation-common-ktx-2.2.2-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../../MyCrypto/caches/transforms-2/files-2.1/85ed07f8485661d8b4620e2187fa7a3f/navigation-common-2.2.2-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../../MyCrypto/caches/transforms-2/files-2.1/8e990f86ba3231403c15413de116a855/core-1.2.0-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../../MyCrypto/caches/transforms-2/files-2.1/552375ded3a8dc2d1d4e5ca056e89945/jetified-lifecycle-process-2.2.0-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../../MyCrypto/caches/transforms-2/files-2.1/386039e6f288faf076c6ad987e22fcbc/jetified-lifecycle-service-2.2.0-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../../MyCrypto/caches/transforms-2/files-2.1/2a946bc3c1702542040c4cd00f733ba3/jetified-lifecycle-runtime-ktx-2.2.0-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../../MyCrypto/caches/transforms-2/files-2.1/5e7853e930801c18b94d1c937392dd39/lifecycle-runtime-2.2.0-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../../MyCrypto/caches/transforms-2/files-2.1/458a6c504b9096b47ba8347e437b5bce/versionedparcelable-1.1.0-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../../MyCrypto/caches/transforms-2/files-2.1/db3cfe55e5bc17d6b9d6eec5a190ecbe/jetified-collection-ktx-1.1.0.jar</arg>
+                <arg>$MODULE_DIR$/../../../../../MyCrypto/caches/modules-2/files-2.1/androidx.collection/collection/1.1.0/1f27220b47669781457de0d600849a5de0e89909/collection-1.1.0.jar</arg>
+                <arg>$MODULE_DIR$/../../../../../MyCrypto/caches/transforms-2/files-2.1/94736892b8132259d211cc7d673a0da9/jetified-firebase-components-17.0.0-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../../MyCrypto/caches/transforms-2/files-2.1/21864f8facbc9545cb8c3416a9fde81f/cursoradapter-1.0.0-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../../MyCrypto/caches/modules-2/files-2.1/androidx.paging/paging-common/2.1.2/e8cdd44767173c4af5164732c32741c89afa684d/paging-common-2.1.2.jar</arg>
+                <arg>$MODULE_DIR$/../../../../../MyCrypto/caches/transforms-2/files-2.1/b0f3d3525a137dfc2c27d8a1ac21c5dc/lifecycle-livedata-2.2.0-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../../MyCrypto/caches/transforms-2/files-2.1/f51db6af834693af7dbf27d645255310/jetified-lifecycle-livedata-core-ktx-2.2.0-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../../MyCrypto/caches/transforms-2/files-2.1/0b17b671912664e9b10149a952b9458e/lifecycle-livedata-core-2.2.0-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../../MyCrypto/caches/transforms-2/files-2.1/fa5b4b341ae44b81581695189d9e272b/core-runtime-2.1.0-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../../MyCrypto/caches/transforms-2/files-2.1/3d9dfdf3edec85a0163c482dcd735126/jetified-savedstate-1.0.0-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../../MyCrypto/caches/modules-2/files-2.1/androidx.arch.core/core-common/2.1.0/b3152fc64428c9354344bd89848ecddc09b6f07e/core-common-2.1.0.jar</arg>
+                <arg>$MODULE_DIR$/../../../../../MyCrypto/caches/modules-2/files-2.1/androidx.lifecycle/lifecycle-common/2.2.0/4ef09a745007778eef83b92f8f23987a8ea59496/lifecycle-common-2.2.0.jar</arg>
+                <arg>$MODULE_DIR$/../../../../../MyCrypto/caches/transforms-2/files-2.1/4d65b4104a7a6dd21f2a556b8de95724/jetified-gifdecoder-4.11.0-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../../MyCrypto/caches/transforms-2/files-2.1/c070addc42863c83efc41d4e222c0d32/exifinterface-1.0.0-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../../MyCrypto/caches/transforms-2/files-2.1/965a6f662d5830095407cad6dc5e2c2c/localbroadcastmanager-1.0.0-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../../MyCrypto/caches/transforms-2/files-2.1/48973a6adf5e403e45d474758c74ab94/documentfile-1.0.0-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../../MyCrypto/caches/transforms-2/files-2.1/daf44cdb3a5afba4ca5aef6d18b05ea3/print-1.0.0-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../../MyCrypto/caches/transforms-2/files-2.1/a74e45982eb3208e7aa609154ec59bdb/interpolator-1.0.0-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../../MyCrypto/caches/modules-2/files-2.1/androidx.annotation/annotation/1.1.0/e3a6fb2f40e3a3842e6b7472628ba4ce416ea4c8/annotation-1.1.0.jar</arg>
+                <arg>$MODULE_DIR$/../../../../../MyCrypto/caches/transforms-2/files-2.1/7c6dc769f96d7d488bb0a8e1d2b55a08/jetified-converter-gson-2.8.1.jar</arg>
+                <arg>$MODULE_DIR$/../../../../../MyCrypto/caches/transforms-2/files-2.1/4d2e38e42851af4a00b04756a0e426ef/jetified-gson-2.8.6.jar</arg>
+                <arg>$MODULE_DIR$/../../../../../MyCrypto/caches/transforms-2/files-2.1/f7996e46fa74f51f37327da79fac280f/jetified-adapter-rxjava2-2.7.2.jar</arg>
+                <arg>$MODULE_DIR$/../../../../../MyCrypto/caches/transforms-2/files-2.1/12b6abd0bc3f9a58103a42b31433a3f0/jetified-retrofit-2.8.1.jar</arg>
+                <arg>$MODULE_DIR$/../../../../../MyCrypto/caches/transforms-2/files-2.1/bbca6fb4a06d28856a4a0f2de42bf081/jetified-okhttp-4.4.1.jar</arg>
+                <arg>$MODULE_DIR$/../../../../../MyCrypto/caches/transforms-2/files-2.1/1a2f027add20fc0a5b6673d776bc3bd9/jetified-okio-jvm-2.4.3.jar</arg>
+                <arg>$MODULE_DIR$/../../../../../MyCrypto/caches/transforms-2/files-2.1/bb0a24f019fc08ac6218137f73864f6f/jetified-kotlin-android-extensions-runtime-1.3.61.jar</arg>
+                <arg>$MODULE_DIR$/../../../../../MyCrypto/caches/transforms-2/files-2.1/76debe3c535a2e3c57703100d95f7df0/jetified-kotlin-stdlib-jdk7-1.3.72.jar</arg>
+                <arg>$MODULE_DIR$/../../../../../MyCrypto/caches/transforms-2/files-2.1/9f1f28ce0e7c87154bf542338c6d5fdc/jetified-kotlinx-coroutines-android-1.3.0.jar</arg>
+                <arg>$MODULE_DIR$/../../../../../MyCrypto/caches/transforms-2/files-2.1/b544234f9c76237060eb13b59580d3f2/jetified-kotlinx-coroutines-core-1.3.0.jar</arg>
+                <arg>$MODULE_DIR$/../../../../../MyCrypto/caches/transforms-2/files-2.1/09b9df4259aa1d0ae2c46ed7a9a6af8c/jetified-kotlin-stdlib-1.3.72.jar</arg>
+                <arg>$MODULE_DIR$/../../../../../MyCrypto/caches/transforms-2/files-2.1/cf43e53d26678a1a200026faada79136/jetified-kotlin-stdlib-common-1.3.72.jar</arg>
+                <arg>$MODULE_DIR$/../../../../../MyCrypto/caches/transforms-2/files-2.1/212c7ef7bb3af4674336d92ad03294ea/jetified-annotations-13.0.jar</arg>
+                <arg>$MODULE_DIR$/../../../../../MyCrypto/caches/transforms-2/files-2.1/61f457c780c34d060b2ccf6a4dd4cd36/jetified-cupboard-2.2.0.jar</arg>
+                <arg>$MODULE_DIR$/../../../../../MyCrypto/caches/transforms-2/files-2.1/e141d0c7517275c256b937d1d5c85c3a/jetified-dagger-2.27.jar</arg>
+                <arg>$MODULE_DIR$/../../../../../MyCrypto/caches/transforms-2/files-2.1/25922dd0886b98c9d8f6cb04ec73ce45/jetified-javax.inject-1.jar</arg>
+                <arg>$MODULE_DIR$/../../../../../MyCrypto/caches/transforms-2/files-2.1/e27dd30d92efe18122875e8308d11bc0/jetified-firebase-annotations-16.0.0.jar</arg>
+                <arg>$MODULE_DIR$/../../../../../MyCrypto/caches/transforms-2/files-2.1/5a85160ac8d92f6cab0bee64f814be72/jetified-rxkotlin-2.4.0.jar</arg>
+                <arg>$MODULE_DIR$/../../../../../MyCrypto/caches/transforms-2/files-2.1/bda07ad813a7f084ab77d409f7dc9b22/jetified-rxandroid-2.1.1-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../../MyCrypto/caches/transforms-2/files-2.1/207ed599c710a1af2de34b1895824e04/jetified-rxjava-2.2.10.jar</arg>
+                <arg>$MODULE_DIR$/../../../../../MyCrypto/caches/transforms-2/files-2.1/79c60afa11ccfa6e0882b29ae98c1f4e/jetified-reactive-streams-1.0.3.jar</arg>
+                <arg>$MODULE_DIR$/../../../../../MyCrypto/caches/transforms-2/files-2.1/7e6f4c4ae1a6ca6c346b5ebfad655e5d/jetified-commons-cli-1.2.jar</arg>
+                <arg>$MODULE_DIR$/../../../../../MyCrypto/caches/transforms-2/files-2.1/3a25c396bdf01eafe637dbfe239ecc61/jetified-jsr305-2.0.1.jar</arg>
+                <arg>$MODULE_DIR$/../../../../../MyCrypto/caches/transforms-2/files-2.1/88b63e123926a3d4992541b24777d44b/constraintlayout-1.1.3-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../../MyCrypto/caches/modules-2/files-2.1/androidx.constraintlayout/constraintlayout-solver/1.1.3/54abe9ffb22cc9019b0b6fcc10f185cc4e67b34e/constraintlayout-solver-1.1.3.jar</arg>
+                <arg>$MODULE_DIR$/../../../../../MyCrypto/caches/transforms-2/files-2.1/33ea77d69fdf894c8ea2b3ca99ddf73f/jetified-input-3.1.1-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../../MyCrypto/caches/transforms-2/files-2.1/b8a0c63f4443b43b6c3ca2e894220a17/jetified-disklrucache-4.11.0.jar</arg>
+                <arg>$MODULE_DIR$/../../../../../MyCrypto/caches/transforms-2/files-2.1/0a8592744a4b33c95fe4e1d8db1e1661/jetified-annotations-4.11.0.jar</arg>
+                <arg>$USER_HOME$/AppData/Local/Android/Sdk/platforms/android-29/android.jar</arg>
+                <arg>$USER_HOME$/AppData/Local/Android/Sdk/build-tools/29.0.3/core-lambda-stubs.jar</arg>
+              </args>
+            </stringArg>
+            <stringArg name="destination" arg="$MODULE_DIR$/../../../app/build/tmp/kotlin-classes/debugAndroidTest" />
+            <stringArg name="jvmTarget" arg="1.8" />
+            <stringArg name="moduleName" arg="app_debug" />
+            <stringArg name="apiVersion" arg="1.3" />
+            <stringArg name="languageVersion" arg="1.3" />
+          </stringArguments>
+          <arrayArguments>
+            <arrayArg name="friendPaths">
+              <args>
+                <arg>$MODULE_DIR$/../../../app/build/tmp/kotlin-classes/debug</arg>
+                <arg>$MODULE_DIR$/../../../app/build/intermediates/javac/debug/classes</arg>
+                <arg>$MODULE_DIR$/../../../app/build/intermediates/app_classes/debug/classes.jar</arg>
+              </args>
+            </arrayArg>
+            <arrayArg name="pluginClasspaths">
+              <args>
+                <arg>$MODULE_DIR$/../../../../../MyCrypto/caches/modules-2/files-2.1/org.jetbrains.intellij.deps/trove4j/1.0.20181211/216c2e14b070f334479d800987affe4054cd563f/trove4j-1.0.20181211.jar</arg>
+                <arg>$MODULE_DIR$/../../../../../MyCrypto/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-android-extensions/1.3.61/54ca7c214a5cd73cd887a42002266e25440097f2/kotlin-android-extensions-1.3.61.jar</arg>
+                <arg>$MODULE_DIR$/../../../../../MyCrypto/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-compiler-embeddable/1.3.61/c35c0833d5a1e3d229359758482c480306724618/kotlin-compiler-embeddable-1.3.61.jar</arg>
+                <arg>$MODULE_DIR$/../../../../../MyCrypto/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-daemon-embeddable/1.3.61/4de83e41a92c8395d89ab2e81d26b788ba163824/kotlin-daemon-embeddable-1.3.61.jar</arg>
+                <arg>$MODULE_DIR$/../../../../../MyCrypto/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-reflect/1.3.61/2e07c9a84c9e118efb70eede7e579fd663932122/kotlin-reflect-1.3.61.jar</arg>
+                <arg>$MODULE_DIR$/../../../../../MyCrypto/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-script-runtime/1.3.61/e5feb39c8de63dcbdc1154b34ca4413874231605/kotlin-script-runtime-1.3.61.jar</arg>
+                <arg>$MODULE_DIR$/../../../../../MyCrypto/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib-common/1.3.61/65abb71d5afb850b68be03987b08e2c864ca3110/kotlin-stdlib-common-1.3.61.jar</arg>
+                <arg>$MODULE_DIR$/../../../../../MyCrypto/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib/1.3.61/4702105e97f7396ae41b113fdbdc180ec1eb1e36/kotlin-stdlib-1.3.61.jar</arg>
+                <arg>$MODULE_DIR$/../../../../../MyCrypto/caches/modules-2/files-2.1/org.jetbrains/annotations/13.0/919f0dfe192fb4e063e7dacadee7f8bb9a2672a9/annotations-13.0.jar</arg>
+              </args>
+            </arrayArg>
+            <arrayArg name="pluginOptions">
+              <args>
+                <arg>plugin:org.jetbrains.kotlin.android:experimental=true</arg>
+                <arg>plugin:org.jetbrains.kotlin.android:enabled=true</arg>
+                <arg>plugin:org.jetbrains.kotlin.android:defaultCacheImplementation=hashMap</arg>
+              </args>
+            </arrayArg>
+          </arrayArguments>
+        </compilerArguments>
+      </configuration>
+    </facet>
+    <facet type="android" name="Android">
+      <configuration>
+        <option name="SELECTED_BUILD_VARIANT" value="debug" />
+        <option name="ALLOW_USER_CONFIGURATION" value="false" />
+        <option name="MANIFEST_FILE_RELATIVE_PATH" value="/src/main/AndroidManifest.xml" />
+        <option name="RES_FOLDER_RELATIVE_PATH" value="/src/main/res" />
+        <option name="RES_FOLDERS_RELATIVE_PATH" value="file://$MODULE_DIR$/../../../app/src/main/res;file://$MODULE_DIR$/../../../app/src/debug/res;file://$MODULE_DIR$/../../../app/build/generated/res/google-services/debug;file://$MODULE_DIR$/../../../app/build/generated/res/rs/debug" />
+        <option name="TEST_RES_FOLDERS_RELATIVE_PATH" value="file://$MODULE_DIR$/../../../app/src/androidTest/res;file://$MODULE_DIR$/../../../app/src/androidTestDebug/res;file://$MODULE_DIR$/../../../app/build/generated/res/rs/androidTest/debug" />
+        <option name="ASSETS_FOLDER_RELATIVE_PATH" value="/src/main/assets" />
+      </configuration>
+    </facet>
+  </component>
+  <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_1_8">
+    <output url="file://$MODULE_DIR$/../../../app/build/intermediates/javac/debug/classes" />
+    <output-test url="file://$MODULE_DIR$/../../../app/build/intermediates/javac/debugUnitTest/classes" />
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../../../app/build/generated/aidl_source_output_dir/debugAndroidTest/out" />
+    <content url="file://$MODULE_DIR$/../../../app/build/generated/ap_generated_sources/debugAndroidTest/out" />
+    <content url="file://$MODULE_DIR$/../../../app/build/generated/renderscript_source_output_dir/debugAndroidTest/out" />
+    <content url="file://$MODULE_DIR$/../../../app/build/generated/res/rs/androidTest/debug" />
+    <content url="file://$MODULE_DIR$/../../../app/build/generated/source/buildConfig/androidTest/debug" />
+    <content url="file://$MODULE_DIR$/../../../app/build/generated/source/kapt/debugAndroidTest" />
+    <content url="file://$MODULE_DIR$/../../../app/build/generated/source/kaptKotlin/debugAndroidTest">
+      <sourceFolder url="file://$MODULE_DIR$/../../../app/build/generated/source/kaptKotlin/debugAndroidTest" isTestSource="true" generated="true" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../app/src/androidTest">
+      <sourceFolder url="file://$MODULE_DIR$/../../../app/src/androidTest/java" isTestSource="true" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../app/src/androidTestDebug" />
+    <orderEntry type="jdk" jdkName="Android API 29 Platform" jdkType="Android SDK" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" scope="TEST" name="Gradle: androidx.databinding:databinding-common:3.6.3" level="project" />
+    <orderEntry type="module-library" scope="TEST">
+      <library name="Gradle: kaptGeneratedClasses">
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../../../app/build/tmp/kapt3/classes/debugAndroidTest" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="library" scope="TEST" name="Gradle: junit:junit:4.12" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: org.hamcrest:hamcrest-core:1.3" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: androidx.lifecycle:lifecycle-common-java8:2.2.0" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: androidx.collection:collection-ktx:1.1.0" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: androidx.collection:collection:1.1.0" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: androidx.paging:paging-common:2.1.2" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: androidx.arch.core:core-common:2.1.0" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: androidx.lifecycle:lifecycle-common:2.2.0" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: androidx.annotation:annotation:1.1.0" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: com.squareup.retrofit2:converter-gson:2.8.1" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: com.google.code.gson:gson:2.8.6" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: com.squareup.retrofit2:adapter-rxjava2:2.7.2" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: com.squareup.retrofit2:retrofit:2.8.1" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: com.squareup.okhttp3:okhttp:4.4.1" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: com.squareup.okio:okio:2.4.3" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: org.jetbrains.kotlin:kotlin-android-extensions-runtime:1.3.61" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: org.jetbrains.kotlin:kotlin-stdlib-jdk7:1.3.72" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: org.jetbrains.kotlinx:kotlinx-coroutines-android:1.3.0" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: org.jetbrains.kotlinx:kotlinx-coroutines-core:1.3.0" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: org.jetbrains.kotlin:kotlin-stdlib:1.3.72" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: org.jetbrains.kotlin:kotlin-stdlib-common:1.3.72" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: org.jetbrains:annotations:13.0" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: nl.qbusict:cupboard:2.2.0" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: com.google.dagger:dagger:2.27" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: javax.inject:javax.inject:1" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: com.google.firebase:firebase-annotations:16.0.0" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: io.reactivex.rxjava2:rxkotlin:2.4.0" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: io.reactivex.rxjava2:rxjava:2.2.10" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: org.reactivestreams:reactive-streams:1.0.3" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: commons-cli:commons-cli:1.2" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: com.google.code.findbugs:jsr305:2.0.1" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: androidx.constraintlayout:constraintlayout-solver:1.1.3" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: com.github.bumptech.glide:disklrucache:4.11.0" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: com.github.bumptech.glide:annotations:4.11.0" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: androidx.test.ext:junit:1.1.1@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: androidx.databinding:databinding-adapters:3.6.3@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: androidx.databinding:databinding-runtime:3.6.3@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: androidx.test:core:1.2.0@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: com.google.dagger:dagger-android-support:2.26@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: com.google.dagger:dagger-android:2.26@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: com.jakewharton.rxbinding3:rxbinding-core:3.1.0@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: com.jakewharton.rxbinding3:rxbinding-appcompat:3.1.0@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: com.jakewharton.rxbinding3:rxbinding:3.1.0@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: com.facebook.stetho:stetho-okhttp3:1.5.1@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: com.facebook.stetho:stetho:1.5.1@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: com.readystatesoftware.chuck:library:1.1.0@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: androidx.navigation:navigation-ui-ktx:2.2.2@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: androidx.navigation:navigation-ui:2.2.2@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: com.google.android.material:material:1.1.0@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: androidx.cardview:cardview:1.0.0@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: androidx.paging:paging-runtime:2.1.2@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: androidx.viewpager2:viewpager2:1.0.0@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: androidx.recyclerview:recyclerview:1.1.0@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: com.afollestad.material-dialogs:core:3.1.1@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: com.airbnb.android:lottie:3.1.0@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: androidx.appcompat:appcompat:1.1.0@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: androidx.lifecycle:lifecycle-extensions:2.2.0@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: androidx.legacy:legacy-support-v4:1.0.0@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: com.github.bumptech.glide:glide:4.11.0@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: androidx.navigation:navigation-fragment-ktx:2.2.2@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: androidx.navigation:navigation-fragment:2.2.2@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: com.google.firebase:firebase-auth-ktx:21.0.3@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: com.google.firebase:firebase-auth:21.0.3@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: androidx.fragment:fragment-ktx:1.2.4@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: com.google.firebase:firebase-common-ktx:20.0.0@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: com.google.firebase:firebase-auth-interop:20.0.0@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: com.google.firebase:firebase-common:20.1.0@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: com.google.android.gms:play-services-auth-api-phone:17.4.0@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: com.google.android.gms:play-services-safetynet:17.0.0@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: com.google.android.gms:play-services-base:17.1.0@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: com.google.android.gms:play-services-tasks:18.0.1@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: com.google.android.gms:play-services-basement:18.0.0@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: androidx.fragment:fragment:1.2.4@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: androidx.navigation:navigation-runtime-ktx:2.2.2@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: androidx.navigation:navigation-runtime:2.2.2@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: androidx.activity:activity-ktx:1.1.0@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: androidx.lifecycle:lifecycle-viewmodel-ktx:2.2.0@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: androidx.browser:browser:1.0.0@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: androidx.legacy:legacy-support-core-ui:1.0.0@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: androidx.legacy:legacy-support-core-utils:1.0.0@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: androidx.loader:loader:1.0.0@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: androidx.activity:activity:1.1.0@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: androidx.lifecycle:lifecycle-viewmodel-savedstate:2.2.0@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: androidx.lifecycle:lifecycle-viewmodel:2.2.0@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: androidx.lifecycle:lifecycle-reactivestreams:2.2.0@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: androidx.core:core-ktx:1.2.0@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: androidx.test:monitor:1.2.0@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: androidx.databinding:viewbinding:3.6.3@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: androidx.coordinatorlayout:coordinatorlayout:1.1.0@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: androidx.drawerlayout:drawerlayout:1.0.0@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: androidx.viewpager:viewpager:1.0.0@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: androidx.slidingpanelayout:slidingpanelayout:1.0.0@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: androidx.customview:customview:1.0.0@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: androidx.transition:transition:1.2.0@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: androidx.appcompat:appcompat-resources:1.1.0@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: androidx.vectordrawable:vectordrawable-animated:1.1.0@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: androidx.vectordrawable:vectordrawable:1.1.0@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: androidx.media:media:1.0.0@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: androidx.swiperefreshlayout:swiperefreshlayout:1.0.0@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: androidx.asynclayoutinflater:asynclayoutinflater:1.0.0@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: androidx.navigation:navigation-common-ktx:2.2.2@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: androidx.navigation:navigation-common:2.2.2@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: androidx.core:core:1.2.0@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: androidx.lifecycle:lifecycle-process:2.2.0@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: androidx.lifecycle:lifecycle-service:2.2.0@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: androidx.lifecycle:lifecycle-runtime-ktx:2.2.0@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: androidx.lifecycle:lifecycle-runtime:2.2.0@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: androidx.versionedparcelable:versionedparcelable:1.1.0@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: com.google.firebase:firebase-components:17.0.0@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: androidx.cursoradapter:cursoradapter:1.0.0@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: androidx.lifecycle:lifecycle-livedata:2.2.0@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: androidx.lifecycle:lifecycle-livedata-core-ktx:2.2.0@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: androidx.lifecycle:lifecycle-livedata-core:2.2.0@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: androidx.arch.core:core-runtime:2.1.0@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: androidx.savedstate:savedstate:1.0.0@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: com.github.bumptech.glide:gifdecoder:4.11.0@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: androidx.exifinterface:exifinterface:1.0.0@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: androidx.localbroadcastmanager:localbroadcastmanager:1.0.0@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: androidx.documentfile:documentfile:1.0.0@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: androidx.print:print:1.0.0@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: androidx.interpolator:interpolator:1.0.0@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: io.reactivex.rxjava2:rxandroid:2.1.1@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: androidx.constraintlayout:constraintlayout:1.1.3@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: com.afollestad.material-dialogs:input:3.1.1@aar" level="project" />
+  </component>
+  <component name="TestModuleProperties" production-module="Movie_App.app.main" />
+</module>
